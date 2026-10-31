@@ -72,15 +72,69 @@ uttera-ai is a company surfaced via the API Evangelist harvest backlog (source: 
 
 Everything profiled for uttera-ai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/uttera-ai/](https://apis.io/providers/uttera-ai/)** — or go straight to one of the APIs or properties below.
 
+### APIs (1)
+
+- [Uttera AI API](https://apis.io/apis/uttera-ai/uttera-ai-api/) — API for Uttera AI services (no public documentation or machine-readable spec found).
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Uttera Ai Domain Security](https://apis.io/security/uttera-ai/uttera-ai-domain-security/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://uttera.ai/)
+- [GitHub](https://github.com/uttera)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/uttera-ai/](https://apis.io/providers/uttera-ai/).
+**Kin Score 5.2** — minimal · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 44.6 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/uttera-ai/](https://apis.io/providers/uttera-ai/).
 
 ## How this profile is made
 
